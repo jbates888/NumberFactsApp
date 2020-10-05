@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number Fact Generator</string>
+    <string name="title">Enter a number and a category for a random fact</string>
+    <string name="sub_title">Categories: trivia, math or year</string>
+</resources>
